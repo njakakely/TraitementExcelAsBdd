@@ -2,11 +2,11 @@
 Traitement de excel comme base de donné
 
 ## Le code
-Sub UtiliserOleDb()
-    Dim conn As Object
-    Dim rs As Object
-    Dim strSQL As String
-    Dim chemin As String
+Sub UtiliserOleDb()<br>
+    Dim conn As Object<br>
+    Dim rs As Object<br>
+    Dim strSQL As String<br>
+    Dim chemin As String<br>
     
     chemin = ThisWorkbook.FullName<br>
     
